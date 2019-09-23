@@ -3,7 +3,7 @@ package com.company;
 public class Task_2 {
     public static void main(String[] args) {
         boolean o = true;
-        byte b = 127;
+        byte b = 126;
         char c = '#';
         short s = -32768;
         int a = 30;
